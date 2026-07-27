@@ -1,12 +1,12 @@
 
-| Hoạt động               | Minh đã làm gì?                                                | Kết quả                                                                               |
-| ----------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| Scan cá nhân            | Đưa ra 3 problemsLead nhóm chọn ra đề tài và present ý tưởng | Nhóm có nhiều candidate về reporting/workflowNhóm được chọn để present trong lớp học |
-| Pitch                   | Pitch ý tưởng AI financial advisor                             | Bài được discussed                                                                    |
-| Challenge               | Hỏi nhóm Slack Search có data access không                     | Nhóm loại bớt scope quá rộng                                                          |
-| Workflow                | Vẽ current/future workflow AI financial advisor                |                                                                                       |
-| Research                | Góp phần research ra các giải pháp cho đề tài được thống nhất  |                                                                                       |
-| Rule / Workflow / Agent | Lập luận chọn Workflow, không chọn Agent                       | Nhóm thống nhất decision                                                              |
+| Hoạt động               | Minh đã làm gì?                                                                         | Kết quả                                                                                |
+| ----------------------- | --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| Scan cá nhân            | Đưa ra 3 problems.Lead nhóm chọn ra đề tài AI Art mentor và present ý tưởng trong lớp | Nhóm có nhiều candidate về reporting/workflow.Nhóm được chọn để present trong lớp học |
+| Pitch                   | Pitch ý tưởng AI financial advisor                                                      | Bài được discussed                                                                     |
+|                         |                                                                                         |                                                                                        |
+| Workflow                | Vẽ current/future workflow AI financial advisor                                         |                                                                                        |
+| Research                | Góp phần research ra các giải pháp cho đề tài được thống nhất                           |                                                                                        |
+| Rule / Workflow / Agent | Lập luận chọn Workflow, không chọn Agent                                                | Nhóm thống nhất decision                                                               |
 
 
 
